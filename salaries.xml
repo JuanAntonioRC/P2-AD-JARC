@@ -1,0 +1,6996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>60117</salary>
+		<from_date>1986-06-26</from_date>
+		<to_date>1987-06-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>62102</salary>
+		<from_date>1987-06-26</from_date>
+		<to_date>1988-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>66074</salary>
+		<from_date>1988-06-25</from_date>
+		<to_date>1989-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>66596</salary>
+		<from_date>1989-06-25</from_date>
+		<to_date>1990-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>66961</salary>
+		<from_date>1990-06-25</from_date>
+		<to_date>1991-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>71046</salary>
+		<from_date>1991-06-25</from_date>
+		<to_date>1992-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>74333</salary>
+		<from_date>1992-06-24</from_date>
+		<to_date>1993-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>75286</salary>
+		<from_date>1993-06-24</from_date>
+		<to_date>1994-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>75994</salary>
+		<from_date>1994-06-24</from_date>
+		<to_date>1995-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>76884</salary>
+		<from_date>1995-06-24</from_date>
+		<to_date>1996-06-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>80013</salary>
+		<from_date>1996-06-23</from_date>
+		<to_date>1997-06-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>81025</salary>
+		<from_date>1997-06-23</from_date>
+		<to_date>1998-06-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>81097</salary>
+		<from_date>1998-06-23</from_date>
+		<to_date>1999-06-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>84917</salary>
+		<from_date>1999-06-23</from_date>
+		<to_date>2000-06-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>85112</salary>
+		<from_date>2000-06-22</from_date>
+		<to_date>2001-06-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>85097</salary>
+		<from_date>2001-06-22</from_date>
+		<to_date>2002-06-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10001</emp_no>
+		<salary>88958</salary>
+		<from_date>2002-06-22</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10002</emp_no>
+		<salary>65828</salary>
+		<from_date>1996-08-03</from_date>
+		<to_date>1997-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10002</emp_no>
+		<salary>65909</salary>
+		<from_date>1997-08-03</from_date>
+		<to_date>1998-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10002</emp_no>
+		<salary>67534</salary>
+		<from_date>1998-08-03</from_date>
+		<to_date>1999-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10002</emp_no>
+		<salary>69366</salary>
+		<from_date>1999-08-03</from_date>
+		<to_date>2000-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10002</emp_no>
+		<salary>71963</salary>
+		<from_date>2000-08-02</from_date>
+		<to_date>2001-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10002</emp_no>
+		<salary>72527</salary>
+		<from_date>2001-08-02</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10003</emp_no>
+		<salary>40006</salary>
+		<from_date>1995-12-03</from_date>
+		<to_date>1996-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10003</emp_no>
+		<salary>43616</salary>
+		<from_date>1996-12-02</from_date>
+		<to_date>1997-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10003</emp_no>
+		<salary>43466</salary>
+		<from_date>1997-12-02</from_date>
+		<to_date>1998-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10003</emp_no>
+		<salary>43636</salary>
+		<from_date>1998-12-02</from_date>
+		<to_date>1999-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10003</emp_no>
+		<salary>43478</salary>
+		<from_date>1999-12-02</from_date>
+		<to_date>2000-12-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10003</emp_no>
+		<salary>43699</salary>
+		<from_date>2000-12-01</from_date>
+		<to_date>2001-12-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10003</emp_no>
+		<salary>43311</salary>
+		<from_date>2001-12-01</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>40054</salary>
+		<from_date>1986-12-01</from_date>
+		<to_date>1987-12-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>42283</salary>
+		<from_date>1987-12-01</from_date>
+		<to_date>1988-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>42542</salary>
+		<from_date>1988-11-30</from_date>
+		<to_date>1989-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>46065</salary>
+		<from_date>1989-11-30</from_date>
+		<to_date>1990-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>48271</salary>
+		<from_date>1990-11-30</from_date>
+		<to_date>1991-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>50594</salary>
+		<from_date>1991-11-30</from_date>
+		<to_date>1992-11-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>52119</salary>
+		<from_date>1992-11-29</from_date>
+		<to_date>1993-11-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>54693</salary>
+		<from_date>1993-11-29</from_date>
+		<to_date>1994-11-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>58326</salary>
+		<from_date>1994-11-29</from_date>
+		<to_date>1995-11-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>60770</salary>
+		<from_date>1995-11-29</from_date>
+		<to_date>1996-11-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>62566</salary>
+		<from_date>1996-11-28</from_date>
+		<to_date>1997-11-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>64340</salary>
+		<from_date>1997-11-28</from_date>
+		<to_date>1998-11-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>67096</salary>
+		<from_date>1998-11-28</from_date>
+		<to_date>1999-11-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>69722</salary>
+		<from_date>1999-11-28</from_date>
+		<to_date>2000-11-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>70698</salary>
+		<from_date>2000-11-27</from_date>
+		<to_date>2001-11-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10004</emp_no>
+		<salary>74057</salary>
+		<from_date>2001-11-27</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>78228</salary>
+		<from_date>1989-09-12</from_date>
+		<to_date>1990-09-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>82621</salary>
+		<from_date>1990-09-12</from_date>
+		<to_date>1991-09-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>83735</salary>
+		<from_date>1991-09-12</from_date>
+		<to_date>1992-09-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>85572</salary>
+		<from_date>1992-09-11</from_date>
+		<to_date>1993-09-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>85076</salary>
+		<from_date>1993-09-11</from_date>
+		<to_date>1994-09-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>86050</salary>
+		<from_date>1994-09-11</from_date>
+		<to_date>1995-09-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>88448</salary>
+		<from_date>1995-09-11</from_date>
+		<to_date>1996-09-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>88063</salary>
+		<from_date>1996-09-10</from_date>
+		<to_date>1997-09-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>89724</salary>
+		<from_date>1997-09-10</from_date>
+		<to_date>1998-09-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>90392</salary>
+		<from_date>1998-09-10</from_date>
+		<to_date>1999-09-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>90531</salary>
+		<from_date>1999-09-10</from_date>
+		<to_date>2000-09-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>91453</salary>
+		<from_date>2000-09-09</from_date>
+		<to_date>2001-09-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10005</emp_no>
+		<salary>94692</salary>
+		<from_date>2001-09-09</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>40000</salary>
+		<from_date>1990-08-05</from_date>
+		<to_date>1991-08-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>42085</salary>
+		<from_date>1991-08-05</from_date>
+		<to_date>1992-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>42629</salary>
+		<from_date>1992-08-04</from_date>
+		<to_date>1993-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>45844</salary>
+		<from_date>1993-08-04</from_date>
+		<to_date>1994-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>47518</salary>
+		<from_date>1994-08-04</from_date>
+		<to_date>1995-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>47917</salary>
+		<from_date>1995-08-04</from_date>
+		<to_date>1996-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>52255</salary>
+		<from_date>1996-08-03</from_date>
+		<to_date>1997-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>53747</salary>
+		<from_date>1997-08-03</from_date>
+		<to_date>1998-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>56032</salary>
+		<from_date>1998-08-03</from_date>
+		<to_date>1999-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>58299</salary>
+		<from_date>1999-08-03</from_date>
+		<to_date>2000-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>60098</salary>
+		<from_date>2000-08-02</from_date>
+		<to_date>2001-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10006</emp_no>
+		<salary>59755</salary>
+		<from_date>2001-08-02</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>56724</salary>
+		<from_date>1989-02-10</from_date>
+		<to_date>1990-02-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>60740</salary>
+		<from_date>1990-02-10</from_date>
+		<to_date>1991-02-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>62745</salary>
+		<from_date>1991-02-10</from_date>
+		<to_date>1992-02-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>63475</salary>
+		<from_date>1992-02-10</from_date>
+		<to_date>1993-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>63208</salary>
+		<from_date>1993-02-09</from_date>
+		<to_date>1994-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>64563</salary>
+		<from_date>1994-02-09</from_date>
+		<to_date>1995-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>68833</salary>
+		<from_date>1995-02-09</from_date>
+		<to_date>1996-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>70220</salary>
+		<from_date>1996-02-09</from_date>
+		<to_date>1997-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>73362</salary>
+		<from_date>1997-02-08</from_date>
+		<to_date>1998-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>75582</salary>
+		<from_date>1998-02-08</from_date>
+		<to_date>1999-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>79513</salary>
+		<from_date>1999-02-08</from_date>
+		<to_date>2000-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>80083</salary>
+		<from_date>2000-02-08</from_date>
+		<to_date>2001-02-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>84456</salary>
+		<from_date>2001-02-07</from_date>
+		<to_date>2002-02-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10007</emp_no>
+		<salary>88070</salary>
+		<from_date>2002-02-07</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10008</emp_no>
+		<salary>46671</salary>
+		<from_date>1998-03-11</from_date>
+		<to_date>1999-03-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10008</emp_no>
+		<salary>48584</salary>
+		<from_date>1999-03-11</from_date>
+		<to_date>2000-03-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10008</emp_no>
+		<salary>52668</salary>
+		<from_date>2000-03-10</from_date>
+		<to_date>2000-07-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>60929</salary>
+		<from_date>1985-02-18</from_date>
+		<to_date>1986-02-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>64604</salary>
+		<from_date>1986-02-18</from_date>
+		<to_date>1987-02-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>64780</salary>
+		<from_date>1987-02-18</from_date>
+		<to_date>1988-02-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>66302</salary>
+		<from_date>1988-02-18</from_date>
+		<to_date>1989-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>69042</salary>
+		<from_date>1989-02-17</from_date>
+		<to_date>1990-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>70889</salary>
+		<from_date>1990-02-17</from_date>
+		<to_date>1991-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>71434</salary>
+		<from_date>1991-02-17</from_date>
+		<to_date>1992-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>74612</salary>
+		<from_date>1992-02-17</from_date>
+		<to_date>1993-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>76518</salary>
+		<from_date>1993-02-16</from_date>
+		<to_date>1994-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>78335</salary>
+		<from_date>1994-02-16</from_date>
+		<to_date>1995-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>80944</salary>
+		<from_date>1995-02-16</from_date>
+		<to_date>1996-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>82507</salary>
+		<from_date>1996-02-16</from_date>
+		<to_date>1997-02-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>85875</salary>
+		<from_date>1997-02-15</from_date>
+		<to_date>1998-02-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>89324</salary>
+		<from_date>1998-02-15</from_date>
+		<to_date>1999-02-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>90668</salary>
+		<from_date>1999-02-15</from_date>
+		<to_date>2000-02-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>93507</salary>
+		<from_date>2000-02-15</from_date>
+		<to_date>2001-02-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>94443</salary>
+		<from_date>2001-02-14</from_date>
+		<to_date>2002-02-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10009</emp_no>
+		<salary>94409</salary>
+		<from_date>2002-02-14</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10010</emp_no>
+		<salary>72488</salary>
+		<from_date>1996-11-24</from_date>
+		<to_date>1997-11-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10010</emp_no>
+		<salary>74347</salary>
+		<from_date>1997-11-24</from_date>
+		<to_date>1998-11-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10010</emp_no>
+		<salary>75405</salary>
+		<from_date>1998-11-24</from_date>
+		<to_date>1999-11-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10010</emp_no>
+		<salary>78194</salary>
+		<from_date>1999-11-24</from_date>
+		<to_date>2000-11-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10010</emp_no>
+		<salary>79580</salary>
+		<from_date>2000-11-23</from_date>
+		<to_date>2001-11-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10010</emp_no>
+		<salary>80324</salary>
+		<from_date>2001-11-23</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10011</emp_no>
+		<salary>42365</salary>
+		<from_date>1990-01-22</from_date>
+		<to_date>1991-01-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10011</emp_no>
+		<salary>44200</salary>
+		<from_date>1991-01-22</from_date>
+		<to_date>1992-01-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10011</emp_no>
+		<salary>48214</salary>
+		<from_date>1992-01-22</from_date>
+		<to_date>1993-01-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10011</emp_no>
+		<salary>50927</salary>
+		<from_date>1993-01-21</from_date>
+		<to_date>1994-01-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10011</emp_no>
+		<salary>51470</salary>
+		<from_date>1994-01-21</from_date>
+		<to_date>1995-01-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10011</emp_no>
+		<salary>54545</salary>
+		<from_date>1995-01-21</from_date>
+		<to_date>1996-01-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10011</emp_no>
+		<salary>56753</salary>
+		<from_date>1996-01-21</from_date>
+		<to_date>1996-11-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>40000</salary>
+		<from_date>1992-12-18</from_date>
+		<to_date>1993-12-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>41867</salary>
+		<from_date>1993-12-18</from_date>
+		<to_date>1994-12-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>42318</salary>
+		<from_date>1994-12-18</from_date>
+		<to_date>1995-12-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>44195</salary>
+		<from_date>1995-12-18</from_date>
+		<to_date>1996-12-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>46460</salary>
+		<from_date>1996-12-17</from_date>
+		<to_date>1997-12-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>46485</salary>
+		<from_date>1997-12-17</from_date>
+		<to_date>1998-12-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>47364</salary>
+		<from_date>1998-12-17</from_date>
+		<to_date>1999-12-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>51122</salary>
+		<from_date>1999-12-17</from_date>
+		<to_date>2000-12-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>54794</salary>
+		<from_date>2000-12-16</from_date>
+		<to_date>2001-12-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10012</emp_no>
+		<salary>54423</salary>
+		<from_date>2001-12-16</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>40000</salary>
+		<from_date>1985-10-20</from_date>
+		<to_date>1986-10-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>40623</salary>
+		<from_date>1986-10-20</from_date>
+		<to_date>1987-10-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>40561</salary>
+		<from_date>1987-10-20</from_date>
+		<to_date>1988-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>40306</salary>
+		<from_date>1988-10-19</from_date>
+		<to_date>1989-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>43569</salary>
+		<from_date>1989-10-19</from_date>
+		<to_date>1990-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>46305</salary>
+		<from_date>1990-10-19</from_date>
+		<to_date>1991-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>47118</salary>
+		<from_date>1991-10-19</from_date>
+		<to_date>1992-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>50351</salary>
+		<from_date>1992-10-18</from_date>
+		<to_date>1993-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>49887</salary>
+		<from_date>1993-10-18</from_date>
+		<to_date>1994-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>53957</salary>
+		<from_date>1994-10-18</from_date>
+		<to_date>1995-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>57590</salary>
+		<from_date>1995-10-18</from_date>
+		<to_date>1996-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>59228</salary>
+		<from_date>1996-10-17</from_date>
+		<to_date>1997-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>59571</salary>
+		<from_date>1997-10-17</from_date>
+		<to_date>1998-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>63274</salary>
+		<from_date>1998-10-17</from_date>
+		<to_date>1999-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>63352</salary>
+		<from_date>1999-10-17</from_date>
+		<to_date>2000-10-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>66744</salary>
+		<from_date>2000-10-16</from_date>
+		<to_date>2001-10-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10013</emp_no>
+		<salary>68901</salary>
+		<from_date>2001-10-16</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>46168</salary>
+		<from_date>1993-12-29</from_date>
+		<to_date>1994-12-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>48242</salary>
+		<from_date>1994-12-29</from_date>
+		<to_date>1995-12-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>47921</salary>
+		<from_date>1995-12-29</from_date>
+		<to_date>1996-12-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>50715</salary>
+		<from_date>1996-12-28</from_date>
+		<to_date>1997-12-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>53228</salary>
+		<from_date>1997-12-28</from_date>
+		<to_date>1998-12-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>53962</salary>
+		<from_date>1998-12-28</from_date>
+		<to_date>1999-12-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>56937</salary>
+		<from_date>1999-12-28</from_date>
+		<to_date>2000-12-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>59142</salary>
+		<from_date>2000-12-27</from_date>
+		<to_date>2001-12-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10014</emp_no>
+		<salary>60598</salary>
+		<from_date>2001-12-27</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10015</emp_no>
+		<salary>40000</salary>
+		<from_date>1992-09-19</from_date>
+		<to_date>1993-08-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10016</emp_no>
+		<salary>70889</salary>
+		<from_date>1998-02-11</from_date>
+		<to_date>1999-02-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10016</emp_no>
+		<salary>72946</salary>
+		<from_date>1999-02-11</from_date>
+		<to_date>2000-02-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10016</emp_no>
+		<salary>76826</salary>
+		<from_date>2000-02-11</from_date>
+		<to_date>2001-02-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10016</emp_no>
+		<salary>76381</salary>
+		<from_date>2001-02-10</from_date>
+		<to_date>2002-02-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10016</emp_no>
+		<salary>77935</salary>
+		<from_date>2002-02-10</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>71380</salary>
+		<from_date>1993-08-03</from_date>
+		<to_date>1994-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>75538</salary>
+		<from_date>1994-08-03</from_date>
+		<to_date>1995-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>79510</salary>
+		<from_date>1995-08-03</from_date>
+		<to_date>1996-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>82163</salary>
+		<from_date>1996-08-02</from_date>
+		<to_date>1997-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>86157</salary>
+		<from_date>1997-08-02</from_date>
+		<to_date>1998-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>89619</salary>
+		<from_date>1998-08-02</from_date>
+		<to_date>1999-08-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>91985</salary>
+		<from_date>1999-08-02</from_date>
+		<to_date>2000-08-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>96122</salary>
+		<from_date>2000-08-01</from_date>
+		<to_date>2001-08-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>98522</salary>
+		<from_date>2001-08-01</from_date>
+		<to_date>2002-08-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10017</emp_no>
+		<salary>99651</salary>
+		<from_date>2002-08-01</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>55881</salary>
+		<from_date>1987-04-03</from_date>
+		<to_date>1988-04-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>59206</salary>
+		<from_date>1988-04-02</from_date>
+		<to_date>1989-04-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>61361</salary>
+		<from_date>1989-04-02</from_date>
+		<to_date>1990-04-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>61648</salary>
+		<from_date>1990-04-02</from_date>
+		<to_date>1991-04-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>61217</salary>
+		<from_date>1991-04-02</from_date>
+		<to_date>1992-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>61244</salary>
+		<from_date>1992-04-01</from_date>
+		<to_date>1993-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>63286</salary>
+		<from_date>1993-04-01</from_date>
+		<to_date>1994-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>65739</salary>
+		<from_date>1994-04-01</from_date>
+		<to_date>1995-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>67519</salary>
+		<from_date>1995-04-01</from_date>
+		<to_date>1996-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>69276</salary>
+		<from_date>1996-03-31</from_date>
+		<to_date>1997-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>72585</salary>
+		<from_date>1997-03-31</from_date>
+		<to_date>1998-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>72804</salary>
+		<from_date>1998-03-31</from_date>
+		<to_date>1999-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>76957</salary>
+		<from_date>1999-03-31</from_date>
+		<to_date>2000-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>80305</salary>
+		<from_date>2000-03-30</from_date>
+		<to_date>2001-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>84541</salary>
+		<from_date>2001-03-30</from_date>
+		<to_date>2002-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10018</emp_no>
+		<salary>84672</salary>
+		<from_date>2002-03-30</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10019</emp_no>
+		<salary>44276</salary>
+		<from_date>1999-04-30</from_date>
+		<to_date>2000-04-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10019</emp_no>
+		<salary>46946</salary>
+		<from_date>2000-04-29</from_date>
+		<to_date>2001-04-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10019</emp_no>
+		<salary>46775</salary>
+		<from_date>2001-04-29</from_date>
+		<to_date>2002-04-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10019</emp_no>
+		<salary>50032</salary>
+		<from_date>2002-04-29</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10020</emp_no>
+		<salary>40000</salary>
+		<from_date>1997-12-30</from_date>
+		<to_date>1998-12-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10020</emp_no>
+		<salary>40647</salary>
+		<from_date>1998-12-30</from_date>
+		<to_date>1999-12-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10020</emp_no>
+		<salary>43800</salary>
+		<from_date>1999-12-30</from_date>
+		<to_date>2000-12-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10020</emp_no>
+		<salary>44927</salary>
+		<from_date>2000-12-29</from_date>
+		<to_date>2001-12-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10020</emp_no>
+		<salary>47017</salary>
+		<from_date>2001-12-29</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>55025</salary>
+		<from_date>1988-02-10</from_date>
+		<to_date>1989-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>56399</salary>
+		<from_date>1989-02-09</from_date>
+		<to_date>1990-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>59700</salary>
+		<from_date>1990-02-09</from_date>
+		<to_date>1991-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>60851</salary>
+		<from_date>1991-02-09</from_date>
+		<to_date>1992-02-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>61117</salary>
+		<from_date>1992-02-09</from_date>
+		<to_date>1993-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>60708</salary>
+		<from_date>1993-02-08</from_date>
+		<to_date>1994-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>63514</salary>
+		<from_date>1994-02-08</from_date>
+		<to_date>1995-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>66249</salary>
+		<from_date>1995-02-08</from_date>
+		<to_date>1996-02-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>70570</salary>
+		<from_date>1996-02-08</from_date>
+		<to_date>1997-02-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>74759</salary>
+		<from_date>1997-02-07</from_date>
+		<to_date>1998-02-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>77519</salary>
+		<from_date>1998-02-07</from_date>
+		<to_date>1999-02-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>77237</salary>
+		<from_date>1999-02-07</from_date>
+		<to_date>2000-02-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>79631</salary>
+		<from_date>2000-02-07</from_date>
+		<to_date>2001-02-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>82295</salary>
+		<from_date>2001-02-06</from_date>
+		<to_date>2002-02-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10021</emp_no>
+		<salary>84169</salary>
+		<from_date>2002-02-06</from_date>
+		<to_date>2002-07-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10022</emp_no>
+		<salary>40000</salary>
+		<from_date>1999-09-03</from_date>
+		<to_date>2000-09-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10022</emp_no>
+		<salary>39935</salary>
+		<from_date>2000-09-02</from_date>
+		<to_date>2001-09-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10022</emp_no>
+		<salary>41348</salary>
+		<from_date>2001-09-02</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10023</emp_no>
+		<salary>47883</salary>
+		<from_date>1999-09-27</from_date>
+		<to_date>2000-09-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10023</emp_no>
+		<salary>50319</salary>
+		<from_date>2000-09-26</from_date>
+		<to_date>2001-09-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10023</emp_no>
+		<salary>50113</salary>
+		<from_date>2001-09-26</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10024</emp_no>
+		<salary>83733</salary>
+		<from_date>1998-06-14</from_date>
+		<to_date>1999-06-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10024</emp_no>
+		<salary>86715</salary>
+		<from_date>1999-06-14</from_date>
+		<to_date>2000-06-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10024</emp_no>
+		<salary>91067</salary>
+		<from_date>2000-06-13</from_date>
+		<to_date>2001-06-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10024</emp_no>
+		<salary>94701</salary>
+		<from_date>2001-06-13</from_date>
+		<to_date>2002-06-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10024</emp_no>
+		<salary>96646</salary>
+		<from_date>2002-06-13</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>40000</salary>
+		<from_date>1987-08-17</from_date>
+		<to_date>1988-08-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>44416</salary>
+		<from_date>1988-08-16</from_date>
+		<to_date>1989-08-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>48680</salary>
+		<from_date>1989-08-16</from_date>
+		<to_date>1990-08-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>50120</salary>
+		<from_date>1990-08-16</from_date>
+		<to_date>1991-08-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>50980</salary>
+		<from_date>1991-08-16</from_date>
+		<to_date>1992-08-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>54459</salary>
+		<from_date>1992-08-15</from_date>
+		<to_date>1993-08-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>54395</salary>
+		<from_date>1993-08-15</from_date>
+		<to_date>1994-08-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>56643</salary>
+		<from_date>1994-08-15</from_date>
+		<to_date>1995-08-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>57585</salary>
+		<from_date>1995-08-15</from_date>
+		<to_date>1996-08-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>57110</salary>
+		<from_date>1996-08-14</from_date>
+		<to_date>1997-08-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10025</emp_no>
+		<salary>57157</salary>
+		<from_date>1997-08-14</from_date>
+		<to_date>1997-10-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>47585</salary>
+		<from_date>1995-03-20</from_date>
+		<to_date>1996-03-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>51730</salary>
+		<from_date>1996-03-19</from_date>
+		<to_date>1997-03-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>53682</salary>
+		<from_date>1997-03-19</from_date>
+		<to_date>1998-03-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>56769</salary>
+		<from_date>1998-03-19</from_date>
+		<to_date>1999-03-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>60397</salary>
+		<from_date>1999-03-19</from_date>
+		<to_date>2000-03-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>64132</salary>
+		<from_date>2000-03-18</from_date>
+		<to_date>2001-03-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>65415</salary>
+		<from_date>2001-03-18</from_date>
+		<to_date>2002-03-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10026</emp_no>
+		<salary>66313</salary>
+		<from_date>2002-03-18</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>40000</salary>
+		<from_date>1995-04-02</from_date>
+		<to_date>1996-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>39520</salary>
+		<from_date>1996-04-01</from_date>
+		<to_date>1997-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>42382</salary>
+		<from_date>1997-04-01</from_date>
+		<to_date>1998-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>43654</salary>
+		<from_date>1998-04-01</from_date>
+		<to_date>1999-04-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>43925</salary>
+		<from_date>1999-04-01</from_date>
+		<to_date>2000-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>45157</salary>
+		<from_date>2000-03-31</from_date>
+		<to_date>2001-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>45771</salary>
+		<from_date>2001-03-31</from_date>
+		<to_date>2002-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10027</emp_no>
+		<salary>46145</salary>
+		<from_date>2002-03-31</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10028</emp_no>
+		<salary>48859</salary>
+		<from_date>1991-10-22</from_date>
+		<to_date>1992-10-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10028</emp_no>
+		<salary>50805</salary>
+		<from_date>1992-10-21</from_date>
+		<to_date>1993-10-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10028</emp_no>
+		<salary>52082</salary>
+		<from_date>1993-10-21</from_date>
+		<to_date>1994-10-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10028</emp_no>
+		<salary>54949</salary>
+		<from_date>1994-10-21</from_date>
+		<to_date>1995-10-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10028</emp_no>
+		<salary>55963</salary>
+		<from_date>1995-10-21</from_date>
+		<to_date>1996-10-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10028</emp_no>
+		<salary>57831</salary>
+		<from_date>1996-10-20</from_date>
+		<to_date>1997-10-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10028</emp_no>
+		<salary>58502</salary>
+		<from_date>1997-10-20</from_date>
+		<to_date>1998-04-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>63163</salary>
+		<from_date>1991-09-18</from_date>
+		<to_date>1992-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>66877</salary>
+		<from_date>1992-09-17</from_date>
+		<to_date>1993-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>69211</salary>
+		<from_date>1993-09-17</from_date>
+		<to_date>1994-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>70624</salary>
+		<from_date>1994-09-17</from_date>
+		<to_date>1995-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>70294</salary>
+		<from_date>1995-09-17</from_date>
+		<to_date>1996-09-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>70671</salary>
+		<from_date>1996-09-16</from_date>
+		<to_date>1997-09-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>73510</salary>
+		<from_date>1997-09-16</from_date>
+		<to_date>1998-09-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>75773</salary>
+		<from_date>1998-09-16</from_date>
+		<to_date>1999-09-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>76067</salary>
+		<from_date>1999-09-16</from_date>
+		<to_date>2000-09-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>76608</salary>
+		<from_date>2000-09-15</from_date>
+		<to_date>2001-09-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10029</emp_no>
+		<salary>77777</salary>
+		<from_date>2001-09-15</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>66956</salary>
+		<from_date>1994-02-17</from_date>
+		<to_date>1995-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>68393</salary>
+		<from_date>1995-02-17</from_date>
+		<to_date>1996-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>72795</salary>
+		<from_date>1996-02-17</from_date>
+		<to_date>1997-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>76453</salary>
+		<from_date>1997-02-16</from_date>
+		<to_date>1998-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>79290</salary>
+		<from_date>1998-02-16</from_date>
+		<to_date>1999-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>83327</salary>
+		<from_date>1999-02-16</from_date>
+		<to_date>2000-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>86634</salary>
+		<from_date>2000-02-16</from_date>
+		<to_date>2001-02-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>87027</salary>
+		<from_date>2001-02-15</from_date>
+		<to_date>2002-02-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10030</emp_no>
+		<salary>88806</salary>
+		<from_date>2002-02-15</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>40000</salary>
+		<from_date>1991-09-01</from_date>
+		<to_date>1992-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>40859</salary>
+		<from_date>1992-08-31</from_date>
+		<to_date>1993-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>41881</salary>
+		<from_date>1993-08-31</from_date>
+		<to_date>1994-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>44191</salary>
+		<from_date>1994-08-31</from_date>
+		<to_date>1995-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>47202</salary>
+		<from_date>1995-08-31</from_date>
+		<to_date>1996-08-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>47606</salary>
+		<from_date>1996-08-30</from_date>
+		<to_date>1997-08-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>50810</salary>
+		<from_date>1997-08-30</from_date>
+		<to_date>1998-08-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>52675</salary>
+		<from_date>1998-08-30</from_date>
+		<to_date>1999-08-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>54177</salary>
+		<from_date>1999-08-30</from_date>
+		<to_date>2000-08-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>53873</salary>
+		<from_date>2000-08-29</from_date>
+		<to_date>2001-08-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10031</emp_no>
+		<salary>56689</salary>
+		<from_date>2001-08-29</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>48426</salary>
+		<from_date>1990-06-20</from_date>
+		<to_date>1991-06-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>49389</salary>
+		<from_date>1991-06-20</from_date>
+		<to_date>1992-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>52000</salary>
+		<from_date>1992-06-19</from_date>
+		<to_date>1993-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>53038</salary>
+		<from_date>1993-06-19</from_date>
+		<to_date>1994-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>54336</salary>
+		<from_date>1994-06-19</from_date>
+		<to_date>1995-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>53978</salary>
+		<from_date>1995-06-19</from_date>
+		<to_date>1996-06-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>55090</salary>
+		<from_date>1996-06-18</from_date>
+		<to_date>1997-06-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>57110</salary>
+		<from_date>1997-06-18</from_date>
+		<to_date>1998-06-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>57926</salary>
+		<from_date>1998-06-18</from_date>
+		<to_date>1999-06-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>57876</salary>
+		<from_date>1999-06-18</from_date>
+		<to_date>2000-06-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>61709</salary>
+		<from_date>2000-06-17</from_date>
+		<to_date>2001-06-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>65820</salary>
+		<from_date>2001-06-17</from_date>
+		<to_date>2002-06-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10032</emp_no>
+		<salary>69539</salary>
+		<from_date>2002-06-17</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10033</emp_no>
+		<salary>51258</salary>
+		<from_date>1987-03-18</from_date>
+		<to_date>1988-03-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10033</emp_no>
+		<salary>54972</salary>
+		<from_date>1988-03-17</from_date>
+		<to_date>1989-03-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10033</emp_no>
+		<salary>55410</salary>
+		<from_date>1989-03-17</from_date>
+		<to_date>1990-03-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10033</emp_no>
+		<salary>56095</salary>
+		<from_date>1990-03-17</from_date>
+		<to_date>1991-03-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10033</emp_no>
+		<salary>56038</salary>
+		<from_date>1991-03-17</from_date>
+		<to_date>1992-03-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10033</emp_no>
+		<salary>57712</salary>
+		<from_date>1992-03-16</from_date>
+		<to_date>1993-03-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10033</emp_no>
+		<salary>60433</salary>
+		<from_date>1993-03-16</from_date>
+		<to_date>1993-03-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10034</emp_no>
+		<salary>47561</salary>
+		<from_date>1995-04-12</from_date>
+		<to_date>1996-04-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10034</emp_no>
+		<salary>51192</salary>
+		<from_date>1996-04-11</from_date>
+		<to_date>1997-04-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10034</emp_no>
+		<salary>52687</salary>
+		<from_date>1997-04-11</from_date>
+		<to_date>1998-04-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10034</emp_no>
+		<salary>53112</salary>
+		<from_date>1998-04-11</from_date>
+		<to_date>1999-04-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10034</emp_no>
+		<salary>53164</salary>
+		<from_date>1999-04-11</from_date>
+		<to_date>1999-10-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>41538</salary>
+		<from_date>1988-09-05</from_date>
+		<to_date>1989-09-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>45131</salary>
+		<from_date>1989-09-05</from_date>
+		<to_date>1990-09-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>45629</salary>
+		<from_date>1990-09-05</from_date>
+		<to_date>1991-09-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>48360</salary>
+		<from_date>1991-09-05</from_date>
+		<to_date>1992-09-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>50664</salary>
+		<from_date>1992-09-04</from_date>
+		<to_date>1993-09-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>53060</salary>
+		<from_date>1993-09-04</from_date>
+		<to_date>1994-09-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>56640</salary>
+		<from_date>1994-09-04</from_date>
+		<to_date>1995-09-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>57621</salary>
+		<from_date>1995-09-04</from_date>
+		<to_date>1996-09-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>59291</salary>
+		<from_date>1996-09-03</from_date>
+		<to_date>1997-09-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>61793</salary>
+		<from_date>1997-09-03</from_date>
+		<to_date>1998-09-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>62285</salary>
+		<from_date>1998-09-03</from_date>
+		<to_date>1999-09-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>65332</salary>
+		<from_date>1999-09-03</from_date>
+		<to_date>2000-09-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>66584</salary>
+		<from_date>2000-09-02</from_date>
+		<to_date>2001-09-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10035</emp_no>
+		<salary>68755</salary>
+		<from_date>2001-09-02</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>42819</salary>
+		<from_date>1992-04-28</from_date>
+		<to_date>1993-04-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>46756</salary>
+		<from_date>1993-04-28</from_date>
+		<to_date>1994-04-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>51084</salary>
+		<from_date>1994-04-28</from_date>
+		<to_date>1995-04-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>52308</salary>
+		<from_date>1995-04-28</from_date>
+		<to_date>1996-04-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>53828</salary>
+		<from_date>1996-04-27</from_date>
+		<to_date>1997-04-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>54408</salary>
+		<from_date>1997-04-27</from_date>
+		<to_date>1998-04-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>53929</salary>
+		<from_date>1998-04-27</from_date>
+		<to_date>1999-04-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>56579</salary>
+		<from_date>1999-04-27</from_date>
+		<to_date>2000-04-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>60478</salary>
+		<from_date>2000-04-26</from_date>
+		<to_date>2001-04-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>60520</salary>
+		<from_date>2001-04-26</from_date>
+		<to_date>2002-04-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10036</emp_no>
+		<salary>63053</salary>
+		<from_date>2002-04-26</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>40000</salary>
+		<from_date>1990-12-05</from_date>
+		<to_date>1991-12-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>39765</salary>
+		<from_date>1991-12-05</from_date>
+		<to_date>1992-12-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>43565</salary>
+		<from_date>1992-12-04</from_date>
+		<to_date>1993-12-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>43104</salary>
+		<from_date>1993-12-04</from_date>
+		<to_date>1994-12-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>46100</salary>
+		<from_date>1994-12-04</from_date>
+		<to_date>1995-12-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>49735</salary>
+		<from_date>1995-12-04</from_date>
+		<to_date>1996-12-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>51775</salary>
+		<from_date>1996-12-03</from_date>
+		<to_date>1997-12-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>53198</salary>
+		<from_date>1997-12-03</from_date>
+		<to_date>1998-12-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>56270</salary>
+		<from_date>1998-12-03</from_date>
+		<to_date>1999-12-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>59882</salary>
+		<from_date>1999-12-03</from_date>
+		<to_date>2000-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>60992</salary>
+		<from_date>2000-12-02</from_date>
+		<to_date>2001-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10037</emp_no>
+		<salary>60574</salary>
+		<from_date>2001-12-02</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>40000</salary>
+		<from_date>1989-09-20</from_date>
+		<to_date>1990-09-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>43527</salary>
+		<from_date>1990-09-20</from_date>
+		<to_date>1991-09-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>46509</salary>
+		<from_date>1991-09-20</from_date>
+		<to_date>1992-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>49874</salary>
+		<from_date>1992-09-19</from_date>
+		<to_date>1993-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>52969</salary>
+		<from_date>1993-09-19</from_date>
+		<to_date>1994-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>56629</salary>
+		<from_date>1994-09-19</from_date>
+		<to_date>1995-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>58079</salary>
+		<from_date>1995-09-19</from_date>
+		<to_date>1996-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>60322</salary>
+		<from_date>1996-09-18</from_date>
+		<to_date>1997-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>62274</salary>
+		<from_date>1997-09-18</from_date>
+		<to_date>1998-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>62517</salary>
+		<from_date>1998-09-18</from_date>
+		<to_date>1999-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>62458</salary>
+		<from_date>1999-09-18</from_date>
+		<to_date>2000-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>64238</salary>
+		<from_date>2000-09-17</from_date>
+		<to_date>2001-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10038</emp_no>
+		<salary>64254</salary>
+		<from_date>2001-09-17</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>40000</salary>
+		<from_date>1988-01-19</from_date>
+		<to_date>1989-01-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>41525</salary>
+		<from_date>1989-01-18</from_date>
+		<to_date>1990-01-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>43801</salary>
+		<from_date>1990-01-18</from_date>
+		<to_date>1991-01-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>46278</salary>
+		<from_date>1991-01-18</from_date>
+		<to_date>1992-01-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>45838</salary>
+		<from_date>1992-01-18</from_date>
+		<to_date>1993-01-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>49155</salary>
+		<from_date>1993-01-17</from_date>
+		<to_date>1994-01-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>52999</salary>
+		<from_date>1994-01-17</from_date>
+		<to_date>1995-01-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>55037</salary>
+		<from_date>1995-01-17</from_date>
+		<to_date>1996-01-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>54937</salary>
+		<from_date>1996-01-17</from_date>
+		<to_date>1997-01-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>55204</salary>
+		<from_date>1997-01-16</from_date>
+		<to_date>1998-01-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>59593</salary>
+		<from_date>1998-01-16</from_date>
+		<to_date>1999-01-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>62131</salary>
+		<from_date>1999-01-16</from_date>
+		<to_date>2000-01-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>61774</salary>
+		<from_date>2000-01-16</from_date>
+		<to_date>2001-01-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>63592</salary>
+		<from_date>2001-01-15</from_date>
+		<to_date>2002-01-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10039</emp_no>
+		<salary>63918</salary>
+		<from_date>2002-01-15</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>52153</salary>
+		<from_date>1993-02-14</from_date>
+		<to_date>1994-02-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>53533</salary>
+		<from_date>1994-02-14</from_date>
+		<to_date>1995-02-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>56565</salary>
+		<from_date>1995-02-14</from_date>
+		<to_date>1996-02-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>60260</salary>
+		<from_date>1996-02-14</from_date>
+		<to_date>1997-02-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>62101</salary>
+		<from_date>1997-02-13</from_date>
+		<to_date>1998-02-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>63870</salary>
+		<from_date>1998-02-13</from_date>
+		<to_date>1999-02-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>64570</salary>
+		<from_date>1999-02-13</from_date>
+		<to_date>2000-02-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>67016</salary>
+		<from_date>2000-02-13</from_date>
+		<to_date>2001-02-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>68185</salary>
+		<from_date>2001-02-12</from_date>
+		<to_date>2002-02-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10040</emp_no>
+		<salary>72668</salary>
+		<from_date>2002-02-12</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>56893</salary>
+		<from_date>1989-11-12</from_date>
+		<to_date>1990-11-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>60824</salary>
+		<from_date>1990-11-12</from_date>
+		<to_date>1991-11-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>63116</salary>
+		<from_date>1991-11-12</from_date>
+		<to_date>1992-11-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>64128</salary>
+		<from_date>1992-11-11</from_date>
+		<to_date>1993-11-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>65615</salary>
+		<from_date>1993-11-11</from_date>
+		<to_date>1994-11-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>69768</salary>
+		<from_date>1994-11-11</from_date>
+		<to_date>1995-11-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>70216</salary>
+		<from_date>1995-11-11</from_date>
+		<to_date>1996-11-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>71322</salary>
+		<from_date>1996-11-10</from_date>
+		<to_date>1997-11-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>74575</salary>
+		<from_date>1997-11-10</from_date>
+		<to_date>1998-11-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>75544</salary>
+		<from_date>1998-11-10</from_date>
+		<to_date>1999-11-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>79746</salary>
+		<from_date>1999-11-10</from_date>
+		<to_date>2000-11-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>81012</salary>
+		<from_date>2000-11-09</from_date>
+		<to_date>2001-11-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10041</emp_no>
+		<salary>81705</salary>
+		<from_date>2001-11-09</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>81662</salary>
+		<from_date>1993-03-21</from_date>
+		<to_date>1994-03-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>84183</salary>
+		<from_date>1994-03-21</from_date>
+		<to_date>1995-03-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>84389</salary>
+		<from_date>1995-03-21</from_date>
+		<to_date>1996-03-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>85501</salary>
+		<from_date>1996-03-20</from_date>
+		<to_date>1997-03-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>89833</salary>
+		<from_date>1997-03-20</from_date>
+		<to_date>1998-03-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>91161</salary>
+		<from_date>1998-03-20</from_date>
+		<to_date>1999-03-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>95035</salary>
+		<from_date>1999-03-20</from_date>
+		<to_date>2000-03-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10042</emp_no>
+		<salary>94868</salary>
+		<from_date>2000-03-19</from_date>
+		<to_date>2000-08-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>49324</salary>
+		<from_date>1990-10-20</from_date>
+		<to_date>1991-10-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>51948</salary>
+		<from_date>1991-10-20</from_date>
+		<to_date>1992-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>54011</salary>
+		<from_date>1992-10-19</from_date>
+		<to_date>1993-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>58302</salary>
+		<from_date>1993-10-19</from_date>
+		<to_date>1994-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>62291</salary>
+		<from_date>1994-10-19</from_date>
+		<to_date>1995-10-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>65669</salary>
+		<from_date>1995-10-19</from_date>
+		<to_date>1996-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>65562</salary>
+		<from_date>1996-10-18</from_date>
+		<to_date>1997-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>68328</salary>
+		<from_date>1997-10-18</from_date>
+		<to_date>1998-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>70689</salary>
+		<from_date>1998-10-18</from_date>
+		<to_date>1999-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>72543</salary>
+		<from_date>1999-10-18</from_date>
+		<to_date>2000-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>76677</salary>
+		<from_date>2000-10-17</from_date>
+		<to_date>2001-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10043</emp_no>
+		<salary>77659</salary>
+		<from_date>2001-10-17</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>40919</salary>
+		<from_date>1994-05-21</from_date>
+		<to_date>1995-05-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>45217</salary>
+		<from_date>1995-05-21</from_date>
+		<to_date>1996-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>46674</salary>
+		<from_date>1996-05-20</from_date>
+		<to_date>1997-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>48623</salary>
+		<from_date>1997-05-20</from_date>
+		<to_date>1998-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>51377</salary>
+		<from_date>1998-05-20</from_date>
+		<to_date>1999-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>53186</salary>
+		<from_date>1999-05-20</from_date>
+		<to_date>2000-05-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>56058</salary>
+		<from_date>2000-05-19</from_date>
+		<to_date>2001-05-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>56810</salary>
+		<from_date>2001-05-19</from_date>
+		<to_date>2002-05-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10044</emp_no>
+		<salary>58345</salary>
+		<from_date>2002-05-19</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10045</emp_no>
+		<salary>41971</salary>
+		<from_date>1996-11-16</from_date>
+		<to_date>1997-11-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10045</emp_no>
+		<salary>42914</salary>
+		<from_date>1997-11-16</from_date>
+		<to_date>1998-11-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10045</emp_no>
+		<salary>43046</salary>
+		<from_date>1998-11-16</from_date>
+		<to_date>1999-11-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10045</emp_no>
+		<salary>43838</salary>
+		<from_date>1999-11-16</from_date>
+		<to_date>2000-11-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10045</emp_no>
+		<salary>47984</salary>
+		<from_date>2000-11-15</from_date>
+		<to_date>2001-11-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10045</emp_no>
+		<salary>47581</salary>
+		<from_date>2001-11-15</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>40000</salary>
+		<from_date>1992-06-20</from_date>
+		<to_date>1993-06-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>42385</salary>
+		<from_date>1993-06-20</from_date>
+		<to_date>1994-06-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>43485</salary>
+		<from_date>1994-06-20</from_date>
+		<to_date>1995-06-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>43203</salary>
+		<from_date>1995-06-20</from_date>
+		<to_date>1996-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>45150</salary>
+		<from_date>1996-06-19</from_date>
+		<to_date>1997-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>48222</salary>
+		<from_date>1997-06-19</from_date>
+		<to_date>1998-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>50853</salary>
+		<from_date>1998-06-19</from_date>
+		<to_date>1999-06-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>52271</salary>
+		<from_date>1999-06-19</from_date>
+		<to_date>2000-06-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>56481</salary>
+		<from_date>2000-06-18</from_date>
+		<to_date>2001-06-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>60249</salary>
+		<from_date>2001-06-18</from_date>
+		<to_date>2002-06-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10046</emp_no>
+		<salary>62218</salary>
+		<from_date>2002-06-18</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>54982</salary>
+		<from_date>1989-03-31</from_date>
+		<to_date>1990-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>57350</salary>
+		<from_date>1990-03-31</from_date>
+		<to_date>1991-03-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>59571</salary>
+		<from_date>1991-03-31</from_date>
+		<to_date>1992-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>62851</salary>
+		<from_date>1992-03-30</from_date>
+		<to_date>1993-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>65225</salary>
+		<from_date>1993-03-30</from_date>
+		<to_date>1994-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>66330</salary>
+		<from_date>1994-03-30</from_date>
+		<to_date>1995-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>69992</salary>
+		<from_date>1995-03-30</from_date>
+		<to_date>1996-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>73376</salary>
+		<from_date>1996-03-29</from_date>
+		<to_date>1997-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>74735</salary>
+		<from_date>1997-03-29</from_date>
+		<to_date>1998-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>75748</salary>
+		<from_date>1998-03-29</from_date>
+		<to_date>1999-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>77149</salary>
+		<from_date>1999-03-29</from_date>
+		<to_date>2000-03-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>78399</salary>
+		<from_date>2000-03-28</from_date>
+		<to_date>2001-03-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>78569</salary>
+		<from_date>2001-03-28</from_date>
+		<to_date>2002-03-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10047</emp_no>
+		<salary>81037</salary>
+		<from_date>2002-03-28</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10048</emp_no>
+		<salary>40000</salary>
+		<from_date>1985-02-24</from_date>
+		<to_date>1986-02-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10048</emp_no>
+		<salary>39507</salary>
+		<from_date>1986-02-24</from_date>
+		<to_date>1987-01-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>40000</salary>
+		<from_date>1992-05-04</from_date>
+		<to_date>1993-05-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>39735</salary>
+		<from_date>1993-05-04</from_date>
+		<to_date>1994-05-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>40484</salary>
+		<from_date>1994-05-04</from_date>
+		<to_date>1995-05-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>41291</salary>
+		<from_date>1995-05-04</from_date>
+		<to_date>1996-05-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>41301</salary>
+		<from_date>1996-05-03</from_date>
+		<to_date>1997-05-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>41957</salary>
+		<from_date>1997-05-03</from_date>
+		<to_date>1998-05-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>41788</salary>
+		<from_date>1998-05-03</from_date>
+		<to_date>1999-05-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>44620</salary>
+		<from_date>1999-05-03</from_date>
+		<to_date>2000-05-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>45933</salary>
+		<from_date>2000-05-02</from_date>
+		<to_date>2001-05-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>48575</salary>
+		<from_date>2001-05-02</from_date>
+		<to_date>2002-05-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10049</emp_no>
+		<salary>51326</salary>
+		<from_date>2002-05-02</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>74366</salary>
+		<from_date>1990-12-25</from_date>
+		<to_date>1991-12-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>78675</salary>
+		<from_date>1991-12-25</from_date>
+		<to_date>1992-12-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>82220</salary>
+		<from_date>1992-12-24</from_date>
+		<to_date>1993-12-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>86604</salary>
+		<from_date>1993-12-24</from_date>
+		<to_date>1994-12-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>88087</salary>
+		<from_date>1994-12-24</from_date>
+		<to_date>1995-12-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>88836</salary>
+		<from_date>1995-12-24</from_date>
+		<to_date>1996-12-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>90623</salary>
+		<from_date>1996-12-23</from_date>
+		<to_date>1997-12-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>91530</salary>
+		<from_date>1997-12-23</from_date>
+		<to_date>1998-12-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>93689</salary>
+		<from_date>1998-12-23</from_date>
+		<to_date>1999-12-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>97571</salary>
+		<from_date>1999-12-23</from_date>
+		<to_date>2000-12-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>97817</salary>
+		<from_date>2000-12-22</from_date>
+		<to_date>2001-12-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10050</emp_no>
+		<salary>97830</salary>
+		<from_date>2001-12-22</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>48817</salary>
+		<from_date>1992-10-15</from_date>
+		<to_date>1993-10-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>50874</salary>
+		<from_date>1993-10-15</from_date>
+		<to_date>1994-10-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>52247</salary>
+		<from_date>1994-10-15</from_date>
+		<to_date>1995-10-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>56217</salary>
+		<from_date>1995-10-15</from_date>
+		<to_date>1996-10-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>59402</salary>
+		<from_date>1996-10-14</from_date>
+		<to_date>1997-10-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>59012</salary>
+		<from_date>1997-10-14</from_date>
+		<to_date>1998-10-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>61719</salary>
+		<from_date>1998-10-14</from_date>
+		<to_date>1999-10-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>61345</salary>
+		<from_date>1999-10-14</from_date>
+		<to_date>2000-10-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>61400</salary>
+		<from_date>2000-10-13</from_date>
+		<to_date>2001-10-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10051</emp_no>
+		<salary>64905</salary>
+		<from_date>2001-10-13</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10052</emp_no>
+		<salary>57212</salary>
+		<from_date>1997-01-31</from_date>
+		<to_date>1998-01-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10052</emp_no>
+		<salary>56908</salary>
+		<from_date>1998-01-31</from_date>
+		<to_date>1999-01-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10052</emp_no>
+		<salary>60084</salary>
+		<from_date>1999-01-31</from_date>
+		<to_date>2000-01-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10052</emp_no>
+		<salary>63081</salary>
+		<from_date>2000-01-31</from_date>
+		<to_date>2001-01-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10052</emp_no>
+		<salary>66450</salary>
+		<from_date>2001-01-30</from_date>
+		<to_date>2002-01-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10052</emp_no>
+		<salary>67156</salary>
+		<from_date>2002-01-30</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>67854</salary>
+		<from_date>1994-11-13</from_date>
+		<to_date>1995-11-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>67912</salary>
+		<from_date>1995-11-13</from_date>
+		<to_date>1996-11-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>71459</salary>
+		<from_date>1996-11-12</from_date>
+		<to_date>1997-11-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>71283</salary>
+		<from_date>1997-11-12</from_date>
+		<to_date>1998-11-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>74822</salary>
+		<from_date>1998-11-12</from_date>
+		<to_date>1999-11-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>77425</salary>
+		<from_date>1999-11-12</from_date>
+		<to_date>2000-11-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>77531</salary>
+		<from_date>2000-11-11</from_date>
+		<to_date>2001-11-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10053</emp_no>
+		<salary>78478</salary>
+		<from_date>2001-11-11</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>40000</salary>
+		<from_date>1995-07-29</from_date>
+		<to_date>1996-07-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>42889</salary>
+		<from_date>1996-07-28</from_date>
+		<to_date>1997-07-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>42846</salary>
+		<from_date>1997-07-28</from_date>
+		<to_date>1998-07-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>44680</salary>
+		<from_date>1998-07-28</from_date>
+		<to_date>1999-07-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>44958</salary>
+		<from_date>1999-07-28</from_date>
+		<to_date>2000-07-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>49391</salary>
+		<from_date>2000-07-27</from_date>
+		<to_date>2001-07-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>52184</salary>
+		<from_date>2001-07-27</from_date>
+		<to_date>2002-07-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10054</emp_no>
+		<salary>53906</salary>
+		<from_date>2002-07-27</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10055</emp_no>
+		<salary>80024</salary>
+		<from_date>1992-04-27</from_date>
+		<to_date>1993-04-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10055</emp_no>
+		<salary>83592</salary>
+		<from_date>1993-04-27</from_date>
+		<to_date>1994-04-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10055</emp_no>
+		<salary>87473</salary>
+		<from_date>1994-04-27</from_date>
+		<to_date>1995-04-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10055</emp_no>
+		<salary>90843</salary>
+		<from_date>1995-04-27</from_date>
+		<to_date>1995-07-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>48857</salary>
+		<from_date>1990-02-01</from_date>
+		<to_date>1991-02-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>51457</salary>
+		<from_date>1991-02-01</from_date>
+		<to_date>1992-02-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>53869</salary>
+		<from_date>1992-02-01</from_date>
+		<to_date>1993-01-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>54677</salary>
+		<from_date>1993-01-31</from_date>
+		<to_date>1994-01-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>56047</salary>
+		<from_date>1994-01-31</from_date>
+		<to_date>1995-01-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>59252</salary>
+		<from_date>1995-01-31</from_date>
+		<to_date>1996-01-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>61963</salary>
+		<from_date>1996-01-31</from_date>
+		<to_date>1997-01-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>65622</salary>
+		<from_date>1997-01-30</from_date>
+		<to_date>1998-01-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>67648</salary>
+		<from_date>1998-01-30</from_date>
+		<to_date>1999-01-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>70163</salary>
+		<from_date>1999-01-30</from_date>
+		<to_date>2000-01-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>69905</salary>
+		<from_date>2000-01-30</from_date>
+		<to_date>2001-01-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>74004</salary>
+		<from_date>2001-01-29</from_date>
+		<to_date>2002-01-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10056</emp_no>
+		<salary>74722</salary>
+		<from_date>2002-01-29</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>49616</salary>
+		<from_date>1992-01-15</from_date>
+		<to_date>1993-01-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>53897</salary>
+		<from_date>1993-01-14</from_date>
+		<to_date>1994-01-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>58099</salary>
+		<from_date>1994-01-14</from_date>
+		<to_date>1995-01-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>58881</salary>
+		<from_date>1995-01-14</from_date>
+		<to_date>1996-01-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>61013</salary>
+		<from_date>1996-01-14</from_date>
+		<to_date>1997-01-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>61055</salary>
+		<from_date>1997-01-13</from_date>
+		<to_date>1998-01-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>61255</salary>
+		<from_date>1998-01-13</from_date>
+		<to_date>1999-01-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>60966</salary>
+		<from_date>1999-01-13</from_date>
+		<to_date>2000-01-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>63507</salary>
+		<from_date>2000-01-13</from_date>
+		<to_date>2001-01-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>66430</salary>
+		<from_date>2001-01-12</from_date>
+		<to_date>2002-01-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10057</emp_no>
+		<salary>68061</salary>
+		<from_date>2002-01-12</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>52787</salary>
+		<from_date>1988-04-25</from_date>
+		<to_date>1989-04-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>53377</salary>
+		<from_date>1989-04-25</from_date>
+		<to_date>1990-04-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>53869</salary>
+		<from_date>1990-04-25</from_date>
+		<to_date>1991-04-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>55134</salary>
+		<from_date>1991-04-25</from_date>
+		<to_date>1992-04-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>57882</salary>
+		<from_date>1992-04-24</from_date>
+		<to_date>1993-04-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>58807</salary>
+		<from_date>1993-04-24</from_date>
+		<to_date>1994-04-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>63284</salary>
+		<from_date>1994-04-24</from_date>
+		<to_date>1995-04-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>63666</salary>
+		<from_date>1995-04-24</from_date>
+		<to_date>1996-04-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>65706</salary>
+		<from_date>1996-04-23</from_date>
+		<to_date>1997-04-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>67913</salary>
+		<from_date>1997-04-23</from_date>
+		<to_date>1998-04-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>68623</salary>
+		<from_date>1998-04-23</from_date>
+		<to_date>1999-04-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>71438</salary>
+		<from_date>1999-04-23</from_date>
+		<to_date>2000-04-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>72151</salary>
+		<from_date>2000-04-22</from_date>
+		<to_date>2001-04-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>72363</salary>
+		<from_date>2001-04-22</from_date>
+		<to_date>2002-04-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10058</emp_no>
+		<salary>72542</salary>
+		<from_date>2002-04-22</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>71218</salary>
+		<from_date>1991-06-26</from_date>
+		<to_date>1992-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>73299</salary>
+		<from_date>1992-06-25</from_date>
+		<to_date>1993-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>76448</salary>
+		<from_date>1993-06-25</from_date>
+		<to_date>1994-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>80739</salary>
+		<from_date>1994-06-25</from_date>
+		<to_date>1995-06-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>82318</salary>
+		<from_date>1995-06-25</from_date>
+		<to_date>1996-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>84522</salary>
+		<from_date>1996-06-24</from_date>
+		<to_date>1997-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>86290</salary>
+		<from_date>1997-06-24</from_date>
+		<to_date>1998-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>89824</salary>
+		<from_date>1998-06-24</from_date>
+		<to_date>1999-06-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>90380</salary>
+		<from_date>1999-06-24</from_date>
+		<to_date>2000-06-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>90689</salary>
+		<from_date>2000-06-23</from_date>
+		<to_date>2001-06-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>93280</salary>
+		<from_date>2001-06-23</from_date>
+		<to_date>2002-06-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10059</emp_no>
+		<salary>94161</salary>
+		<from_date>2002-06-23</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>74686</salary>
+		<from_date>1989-05-28</from_date>
+		<to_date>1990-05-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>75594</salary>
+		<from_date>1990-05-28</from_date>
+		<to_date>1991-05-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>77772</salary>
+		<from_date>1991-05-28</from_date>
+		<to_date>1992-05-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>78393</salary>
+		<from_date>1992-05-27</from_date>
+		<to_date>1993-05-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>77964</salary>
+		<from_date>1993-05-27</from_date>
+		<to_date>1994-05-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>78057</salary>
+		<from_date>1994-05-27</from_date>
+		<to_date>1995-05-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>78983</salary>
+		<from_date>1995-05-27</from_date>
+		<to_date>1996-05-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>79900</salary>
+		<from_date>1996-05-26</from_date>
+		<to_date>1997-05-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>79684</salary>
+		<from_date>1997-05-26</from_date>
+		<to_date>1998-05-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>84052</salary>
+		<from_date>1998-05-26</from_date>
+		<to_date>1999-05-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>85960</salary>
+		<from_date>1999-05-26</from_date>
+		<to_date>2000-05-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>87773</salary>
+		<from_date>2000-05-25</from_date>
+		<to_date>2001-05-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>89769</salary>
+		<from_date>2001-05-25</from_date>
+		<to_date>2002-05-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10060</emp_no>
+		<salary>93188</salary>
+		<from_date>2002-05-25</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>68577</salary>
+		<from_date>1989-12-02</from_date>
+		<to_date>1990-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>71135</salary>
+		<from_date>1990-12-02</from_date>
+		<to_date>1991-12-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>72464</salary>
+		<from_date>1991-12-02</from_date>
+		<to_date>1992-12-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>74796</salary>
+		<from_date>1992-12-01</from_date>
+		<to_date>1993-12-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>74944</salary>
+		<from_date>1993-12-01</from_date>
+		<to_date>1994-12-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>79041</salary>
+		<from_date>1994-12-01</from_date>
+		<to_date>1995-12-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>80248</salary>
+		<from_date>1995-12-01</from_date>
+		<to_date>1996-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>84445</salary>
+		<from_date>1996-11-30</from_date>
+		<to_date>1997-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>88012</salary>
+		<from_date>1997-11-30</from_date>
+		<to_date>1998-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>90972</salary>
+		<from_date>1998-11-30</from_date>
+		<to_date>1999-11-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>91371</salary>
+		<from_date>1999-11-30</from_date>
+		<to_date>2000-11-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>95866</salary>
+		<from_date>2000-11-29</from_date>
+		<to_date>2001-11-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10061</emp_no>
+		<salary>97338</salary>
+		<from_date>2001-11-29</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>55685</salary>
+		<from_date>1991-08-30</from_date>
+		<to_date>1992-08-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>59029</salary>
+		<from_date>1992-08-29</from_date>
+		<to_date>1993-08-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>60089</salary>
+		<from_date>1993-08-29</from_date>
+		<to_date>1994-08-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>62194</salary>
+		<from_date>1994-08-29</from_date>
+		<to_date>1995-08-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>61761</salary>
+		<from_date>1995-08-29</from_date>
+		<to_date>1996-08-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>65275</salary>
+		<from_date>1996-08-28</from_date>
+		<to_date>1997-08-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>65544</salary>
+		<from_date>1997-08-28</from_date>
+		<to_date>1998-08-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>66167</salary>
+		<from_date>1998-08-28</from_date>
+		<to_date>1999-08-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>66447</salary>
+		<from_date>1999-08-28</from_date>
+		<to_date>2000-08-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>68784</salary>
+		<from_date>2000-08-27</from_date>
+		<to_date>2001-08-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10062</emp_no>
+		<salary>68559</salary>
+		<from_date>2001-08-27</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>40000</salary>
+		<from_date>1989-04-08</from_date>
+		<to_date>1990-04-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>41990</salary>
+		<from_date>1990-04-08</from_date>
+		<to_date>1991-04-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>44342</salary>
+		<from_date>1991-04-08</from_date>
+		<to_date>1992-04-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>48429</salary>
+		<from_date>1992-04-07</from_date>
+		<to_date>1993-04-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>52466</salary>
+		<from_date>1993-04-07</from_date>
+		<to_date>1994-04-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>54823</salary>
+		<from_date>1994-04-07</from_date>
+		<to_date>1995-04-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>56442</salary>
+		<from_date>1995-04-07</from_date>
+		<to_date>1996-04-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>60165</salary>
+		<from_date>1996-04-05</from_date>
+		<to_date>1997-04-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>63852</salary>
+		<from_date>1997-04-05</from_date>
+		<to_date>1998-04-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>65262</salary>
+		<from_date>1998-04-06</from_date>
+		<to_date>1999-04-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>69354</salary>
+		<from_date>1999-04-06</from_date>
+		<to_date>2000-04-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>71028</salary>
+		<from_date>2000-04-05</from_date>
+		<to_date>2001-04-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>73393</salary>
+		<from_date>2001-04-05</from_date>
+		<to_date>2002-04-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10063</emp_no>
+		<salary>74841</salary>
+		<from_date>2002-04-04</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10064</emp_no>
+		<salary>40000</salary>
+		<from_date>1985-11-20</from_date>
+		<to_date>1986-11-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10064</emp_no>
+		<salary>39551</salary>
+		<from_date>1986-11-20</from_date>
+		<to_date>1987-11-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10064</emp_no>
+		<salary>41264</salary>
+		<from_date>1987-11-20</from_date>
+		<to_date>1988-11-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10064</emp_no>
+		<salary>40795</salary>
+		<from_date>1988-11-19</from_date>
+		<to_date>1989-11-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10064</emp_no>
+		<salary>43466</salary>
+		<from_date>1989-11-19</from_date>
+		<to_date>1990-11-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10064</emp_no>
+		<salary>45895</salary>
+		<from_date>1990-11-19</from_date>
+		<to_date>1991-11-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10064</emp_no>
+		<salary>48454</salary>
+		<from_date>1991-11-19</from_date>
+		<to_date>1992-03-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10065</emp_no>
+		<salary>40000</salary>
+		<from_date>1998-05-24</from_date>
+		<to_date>1999-05-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10065</emp_no>
+		<salary>40503</salary>
+		<from_date>1999-05-24</from_date>
+		<to_date>2000-05-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10065</emp_no>
+		<salary>42031</salary>
+		<from_date>2000-05-23</from_date>
+		<to_date>2001-05-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10065</emp_no>
+		<salary>43655</salary>
+		<from_date>2001-05-23</from_date>
+		<to_date>2002-05-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10065</emp_no>
+		<salary>47437</salary>
+		<from_date>2002-05-23</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>69736</salary>
+		<from_date>1986-02-26</from_date>
+		<to_date>1987-02-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>72147</salary>
+		<from_date>1987-02-26</from_date>
+		<to_date>1988-02-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>76616</salary>
+		<from_date>1988-02-26</from_date>
+		<to_date>1989-02-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>78885</salary>
+		<from_date>1989-02-25</from_date>
+		<to_date>1990-02-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>82819</salary>
+		<from_date>1990-02-25</from_date>
+		<to_date>1991-02-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>84064</salary>
+		<from_date>1991-02-25</from_date>
+		<to_date>1992-02-25</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>84161</salary>
+		<from_date>1992-02-25</from_date>
+		<to_date>1993-02-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>84368</salary>
+		<from_date>1993-02-24</from_date>
+		<to_date>1994-02-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>88392</salary>
+		<from_date>1994-02-24</from_date>
+		<to_date>1995-02-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>88808</salary>
+		<from_date>1995-02-24</from_date>
+		<to_date>1996-02-24</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>92405</salary>
+		<from_date>1996-02-24</from_date>
+		<to_date>1997-02-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>96451</salary>
+		<from_date>1997-02-23</from_date>
+		<to_date>1998-02-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>98656</salary>
+		<from_date>1998-02-23</from_date>
+		<to_date>1999-02-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>99199</salary>
+		<from_date>1999-02-23</from_date>
+		<to_date>2000-02-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>102425</salary>
+		<from_date>2000-02-23</from_date>
+		<to_date>2001-02-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>102674</salary>
+		<from_date>2001-02-22</from_date>
+		<to_date>2002-02-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10066</emp_no>
+		<salary>103672</salary>
+		<from_date>2002-02-22</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>44642</salary>
+		<from_date>1987-03-04</from_date>
+		<to_date>1988-03-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>47879</salary>
+		<from_date>1988-03-03</from_date>
+		<to_date>1989-03-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>47733</salary>
+		<from_date>1989-03-03</from_date>
+		<to_date>1990-03-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>51396</salary>
+		<from_date>1990-03-03</from_date>
+		<to_date>1991-03-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>52808</salary>
+		<from_date>1991-03-03</from_date>
+		<to_date>1992-03-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>56581</salary>
+		<from_date>1992-03-02</from_date>
+		<to_date>1993-03-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>58363</salary>
+		<from_date>1993-03-02</from_date>
+		<to_date>1994-03-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>62607</salary>
+		<from_date>1994-03-02</from_date>
+		<to_date>1995-03-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>66769</salary>
+		<from_date>1995-03-02</from_date>
+		<to_date>1996-03-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>70158</salary>
+		<from_date>1996-03-01</from_date>
+		<to_date>1997-03-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>73730</salary>
+		<from_date>1997-03-01</from_date>
+		<to_date>1998-03-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>74242</salary>
+		<from_date>1998-03-01</from_date>
+		<to_date>1999-03-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>75732</salary>
+		<from_date>1999-03-01</from_date>
+		<to_date>2000-02-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>77620</salary>
+		<from_date>2000-02-29</from_date>
+		<to_date>2001-02-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>81784</salary>
+		<from_date>2001-02-28</from_date>
+		<to_date>2002-02-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10067</emp_no>
+		<salary>83254</salary>
+		<from_date>2002-02-28</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>87964</salary>
+		<from_date>1987-08-07</from_date>
+		<to_date>1988-08-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>92176</salary>
+		<from_date>1988-08-06</from_date>
+		<to_date>1989-08-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>92089</salary>
+		<from_date>1989-08-06</from_date>
+		<to_date>1990-08-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>93474</salary>
+		<from_date>1990-08-06</from_date>
+		<to_date>1991-08-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>94724</salary>
+		<from_date>1991-08-06</from_date>
+		<to_date>1992-08-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>97058</salary>
+		<from_date>1992-08-05</from_date>
+		<to_date>1993-08-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>100005</salary>
+		<from_date>1993-08-05</from_date>
+		<to_date>1994-08-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>101829</salary>
+		<from_date>1994-08-05</from_date>
+		<to_date>1995-08-05</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>101630</salary>
+		<from_date>1995-08-05</from_date>
+		<to_date>1996-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>105533</salary>
+		<from_date>1996-08-04</from_date>
+		<to_date>1997-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>106204</salary>
+		<from_date>1997-08-04</from_date>
+		<to_date>1998-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>108345</salary>
+		<from_date>1998-08-04</from_date>
+		<to_date>1999-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>111623</salary>
+		<from_date>1999-08-04</from_date>
+		<to_date>2000-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>112470</salary>
+		<from_date>2000-08-03</from_date>
+		<to_date>2001-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10068</emp_no>
+		<salary>113229</salary>
+		<from_date>2001-08-03</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>67932</salary>
+		<from_date>1992-06-14</from_date>
+		<to_date>1993-06-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>68046</salary>
+		<from_date>1993-06-14</from_date>
+		<to_date>1994-06-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>67675</salary>
+		<from_date>1994-06-14</from_date>
+		<to_date>1995-06-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>69876</salary>
+		<from_date>1995-06-14</from_date>
+		<to_date>1996-06-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>70464</salary>
+		<from_date>1996-06-13</from_date>
+		<to_date>1997-06-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>71574</salary>
+		<from_date>1997-06-13</from_date>
+		<to_date>1998-06-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>74638</salary>
+		<from_date>1998-06-13</from_date>
+		<to_date>1999-06-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>79102</salary>
+		<from_date>1999-06-13</from_date>
+		<to_date>2000-06-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>82731</salary>
+		<from_date>2000-06-12</from_date>
+		<to_date>2001-06-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>85931</salary>
+		<from_date>2001-06-12</from_date>
+		<to_date>2002-06-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10069</emp_no>
+		<salary>86641</salary>
+		<from_date>2002-06-12</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>55999</salary>
+		<from_date>1985-10-14</from_date>
+		<to_date>1986-10-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>56848</salary>
+		<from_date>1986-10-14</from_date>
+		<to_date>1987-10-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>61306</salary>
+		<from_date>1987-10-14</from_date>
+		<to_date>1988-10-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>63174</salary>
+		<from_date>1988-10-13</from_date>
+		<to_date>1989-10-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>63950</salary>
+		<from_date>1989-10-13</from_date>
+		<to_date>1990-10-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>64776</salary>
+		<from_date>1990-10-13</from_date>
+		<to_date>1991-10-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>67223</salary>
+		<from_date>1991-10-13</from_date>
+		<to_date>1992-10-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>70301</salary>
+		<from_date>1992-10-12</from_date>
+		<to_date>1993-10-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>74286</salary>
+		<from_date>1993-10-12</from_date>
+		<to_date>1994-10-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>77938</salary>
+		<from_date>1994-10-12</from_date>
+		<to_date>1995-10-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>82124</salary>
+		<from_date>1995-10-12</from_date>
+		<to_date>1996-10-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>83639</salary>
+		<from_date>1996-10-11</from_date>
+		<to_date>1997-10-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>87499</salary>
+		<from_date>1997-10-11</from_date>
+		<to_date>1998-10-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>87086</salary>
+		<from_date>1998-10-11</from_date>
+		<to_date>1999-10-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>90690</salary>
+		<from_date>1999-10-11</from_date>
+		<to_date>2000-10-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>94654</salary>
+		<from_date>2000-10-10</from_date>
+		<to_date>2001-10-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10070</emp_no>
+		<salary>96322</salary>
+		<from_date>2001-10-10</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10071</emp_no>
+		<salary>40000</salary>
+		<from_date>1995-08-05</from_date>
+		<to_date>1996-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10071</emp_no>
+		<salary>40087</salary>
+		<from_date>1996-08-04</from_date>
+		<to_date>1997-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10071</emp_no>
+		<salary>41656</salary>
+		<from_date>1997-08-04</from_date>
+		<to_date>1998-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10071</emp_no>
+		<salary>42768</salary>
+		<from_date>1998-08-04</from_date>
+		<to_date>1999-08-04</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10071</emp_no>
+		<salary>46295</salary>
+		<from_date>1999-08-04</from_date>
+		<to_date>2000-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10071</emp_no>
+		<salary>49837</salary>
+		<from_date>2000-08-03</from_date>
+		<to_date>2001-08-03</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10071</emp_no>
+		<salary>53315</salary>
+		<from_date>2001-08-03</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>40000</salary>
+		<from_date>1989-05-21</from_date>
+		<to_date>1990-05-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>39567</salary>
+		<from_date>1990-05-21</from_date>
+		<to_date>1991-05-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>39724</salary>
+		<from_date>1991-05-21</from_date>
+		<to_date>1992-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>40803</salary>
+		<from_date>1992-05-20</from_date>
+		<to_date>1993-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>44781</salary>
+		<from_date>1993-05-20</from_date>
+		<to_date>1994-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>49265</salary>
+		<from_date>1994-05-20</from_date>
+		<to_date>1995-05-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>53559</salary>
+		<from_date>1995-05-20</from_date>
+		<to_date>1996-05-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>56103</salary>
+		<from_date>1996-05-19</from_date>
+		<to_date>1997-05-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>58578</salary>
+		<from_date>1997-05-19</from_date>
+		<to_date>1998-05-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>60600</salary>
+		<from_date>1998-05-19</from_date>
+		<to_date>1999-05-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>62174</salary>
+		<from_date>1999-05-19</from_date>
+		<to_date>2000-05-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>63157</salary>
+		<from_date>2000-05-18</from_date>
+		<to_date>2001-05-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>64726</salary>
+		<from_date>2001-05-18</from_date>
+		<to_date>2002-05-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10072</emp_no>
+		<salary>64512</salary>
+		<from_date>2002-05-18</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10073</emp_no>
+		<salary>56473</salary>
+		<from_date>1998-02-02</from_date>
+		<to_date>1998-02-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>61714</salary>
+		<from_date>1990-08-13</from_date>
+		<to_date>1991-08-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>64739</salary>
+		<from_date>1991-08-13</from_date>
+		<to_date>1992-08-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>64655</salary>
+		<from_date>1992-08-12</from_date>
+		<to_date>1993-08-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>67516</salary>
+		<from_date>1993-08-12</from_date>
+		<to_date>1994-08-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>70019</salary>
+		<from_date>1994-08-12</from_date>
+		<to_date>1995-08-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>70984</salary>
+		<from_date>1995-08-12</from_date>
+		<to_date>1996-08-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>72145</salary>
+		<from_date>1996-08-11</from_date>
+		<to_date>1997-08-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>73009</salary>
+		<from_date>1997-08-11</from_date>
+		<to_date>1998-08-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>77489</salary>
+		<from_date>1998-08-11</from_date>
+		<to_date>1999-08-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>77625</salary>
+		<from_date>1999-08-11</from_date>
+		<to_date>2000-08-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>79934</salary>
+		<from_date>2000-08-10</from_date>
+		<to_date>2001-08-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10074</emp_no>
+		<salary>80820</salary>
+		<from_date>2001-08-10</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>43815</salary>
+		<from_date>1988-05-17</from_date>
+		<to_date>1989-05-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>43590</salary>
+		<from_date>1989-05-17</from_date>
+		<to_date>1990-05-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>46087</salary>
+		<from_date>1990-05-17</from_date>
+		<to_date>1991-05-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>47765</salary>
+		<from_date>1991-05-17</from_date>
+		<to_date>1992-05-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>48606</salary>
+		<from_date>1992-05-16</from_date>
+		<to_date>1993-05-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>49208</salary>
+		<from_date>1993-05-16</from_date>
+		<to_date>1994-05-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>51099</salary>
+		<from_date>1994-05-16</from_date>
+		<to_date>1995-05-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>51323</salary>
+		<from_date>1995-05-16</from_date>
+		<to_date>1996-05-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>51238</salary>
+		<from_date>1996-05-15</from_date>
+		<to_date>1997-05-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>55463</salary>
+		<from_date>1997-05-15</from_date>
+		<to_date>1998-05-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>59623</salary>
+		<from_date>1998-05-15</from_date>
+		<to_date>1999-05-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>63624</salary>
+		<from_date>1999-05-15</from_date>
+		<to_date>2000-05-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10075</emp_no>
+		<salary>67492</salary>
+		<from_date>2000-05-14</from_date>
+		<to_date>2001-01-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10076</emp_no>
+		<salary>47319</salary>
+		<from_date>1996-07-15</from_date>
+		<to_date>1997-07-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10076</emp_no>
+		<salary>50802</salary>
+		<from_date>1997-07-15</from_date>
+		<to_date>1998-07-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10076</emp_no>
+		<salary>54783</salary>
+		<from_date>1998-07-15</from_date>
+		<to_date>1999-07-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10076</emp_no>
+		<salary>57418</salary>
+		<from_date>1999-07-15</from_date>
+		<to_date>2000-07-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10076</emp_no>
+		<salary>59999</salary>
+		<from_date>2000-07-14</from_date>
+		<to_date>2001-07-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10076</emp_no>
+		<salary>61118</salary>
+		<from_date>2001-07-14</from_date>
+		<to_date>2002-07-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10076</emp_no>
+		<salary>62921</salary>
+		<from_date>2002-07-14</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>40000</salary>
+		<from_date>1994-12-23</from_date>
+		<to_date>1995-12-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>43745</salary>
+		<from_date>1995-12-23</from_date>
+		<to_date>1996-12-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>43864</salary>
+		<from_date>1996-12-22</from_date>
+		<to_date>1997-12-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>47173</salary>
+		<from_date>1997-12-22</from_date>
+		<to_date>1998-12-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>49955</salary>
+		<from_date>1998-12-22</from_date>
+		<to_date>1999-12-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>50403</salary>
+		<from_date>1999-12-22</from_date>
+		<to_date>2000-12-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>51581</salary>
+		<from_date>2000-12-21</from_date>
+		<to_date>2001-12-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10077</emp_no>
+		<salary>54699</salary>
+		<from_date>2001-12-21</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>47280</salary>
+		<from_date>1994-09-29</from_date>
+		<to_date>1995-09-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>46833</salary>
+		<from_date>1995-09-29</from_date>
+		<to_date>1996-09-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>50652</salary>
+		<from_date>1996-09-28</from_date>
+		<to_date>1997-09-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>50977</salary>
+		<from_date>1997-09-28</from_date>
+		<to_date>1998-09-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>51132</salary>
+		<from_date>1998-09-28</from_date>
+		<to_date>1999-09-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>53130</salary>
+		<from_date>1999-09-28</from_date>
+		<to_date>2000-09-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>52860</salary>
+		<from_date>2000-09-27</from_date>
+		<to_date>2001-09-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10078</emp_no>
+		<salary>54652</salary>
+		<from_date>2001-09-27</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10079</emp_no>
+		<salary>53492</salary>
+		<from_date>1995-12-13</from_date>
+		<to_date>1996-12-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10079</emp_no>
+		<salary>56811</salary>
+		<from_date>1996-12-12</from_date>
+		<to_date>1997-12-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10079</emp_no>
+		<salary>56717</salary>
+		<from_date>1997-12-12</from_date>
+		<to_date>1998-12-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10079</emp_no>
+		<salary>56256</salary>
+		<from_date>1998-12-12</from_date>
+		<to_date>1999-12-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10079</emp_no>
+		<salary>59225</salary>
+		<from_date>1999-12-12</from_date>
+		<to_date>2000-12-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10079</emp_no>
+		<salary>63641</salary>
+		<from_date>2000-12-11</from_date>
+		<to_date>2001-12-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10079</emp_no>
+		<salary>67231</salary>
+		<from_date>2001-12-11</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>54916</salary>
+		<from_date>1994-09-28</from_date>
+		<to_date>1995-09-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>56838</salary>
+		<from_date>1995-09-28</from_date>
+		<to_date>1996-09-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>60742</salary>
+		<from_date>1996-09-27</from_date>
+		<to_date>1997-09-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>62087</salary>
+		<from_date>1997-09-27</from_date>
+		<to_date>1998-09-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>65129</salary>
+		<from_date>1998-09-27</from_date>
+		<to_date>1999-09-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>68691</salary>
+		<from_date>1999-09-27</from_date>
+		<to_date>2000-09-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>71986</salary>
+		<from_date>2000-09-26</from_date>
+		<to_date>2001-09-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10080</emp_no>
+		<salary>72729</salary>
+		<from_date>2001-09-26</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>55786</salary>
+		<from_date>1986-10-30</from_date>
+		<to_date>1987-10-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>58975</salary>
+		<from_date>1987-10-30</from_date>
+		<to_date>1988-10-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>58475</salary>
+		<from_date>1988-10-29</from_date>
+		<to_date>1989-10-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>61935</salary>
+		<from_date>1989-10-29</from_date>
+		<to_date>1990-10-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>63172</salary>
+		<from_date>1990-10-29</from_date>
+		<to_date>1991-10-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>64355</salary>
+		<from_date>1991-10-29</from_date>
+		<to_date>1992-10-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>64054</salary>
+		<from_date>1992-10-28</from_date>
+		<to_date>1993-10-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>66796</salary>
+		<from_date>1993-10-28</from_date>
+		<to_date>1994-10-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>66704</salary>
+		<from_date>1994-10-28</from_date>
+		<to_date>1995-10-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>68102</salary>
+		<from_date>1995-10-28</from_date>
+		<to_date>1996-10-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>69882</salary>
+		<from_date>1996-10-27</from_date>
+		<to_date>1997-10-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>73516</salary>
+		<from_date>1997-10-27</from_date>
+		<to_date>1998-10-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>74714</salary>
+		<from_date>1998-10-27</from_date>
+		<to_date>1999-10-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>74734</salary>
+		<from_date>1999-10-27</from_date>
+		<to_date>2000-10-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>75683</salary>
+		<from_date>2000-10-26</from_date>
+		<to_date>2001-10-26</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10081</emp_no>
+		<salary>79351</salary>
+		<from_date>2001-10-26</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10082</emp_no>
+		<salary>48935</salary>
+		<from_date>1990-01-03</from_date>
+		<to_date>1990-01-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>40000</salary>
+		<from_date>1987-03-31</from_date>
+		<to_date>1988-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>44226</salary>
+		<from_date>1988-03-30</from_date>
+		<to_date>1989-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>47900</salary>
+		<from_date>1989-03-30</from_date>
+		<to_date>1990-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>49732</salary>
+		<from_date>1990-03-30</from_date>
+		<to_date>1991-03-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>53520</salary>
+		<from_date>1991-03-30</from_date>
+		<to_date>1992-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>54944</salary>
+		<from_date>1992-03-29</from_date>
+		<to_date>1993-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>55469</salary>
+		<from_date>1993-03-29</from_date>
+		<to_date>1994-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>58814</salary>
+		<from_date>1994-03-29</from_date>
+		<to_date>1995-03-29</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>59286</salary>
+		<from_date>1995-03-29</from_date>
+		<to_date>1996-03-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>62727</salary>
+		<from_date>1996-03-28</from_date>
+		<to_date>1997-03-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>65435</salary>
+		<from_date>1997-03-28</from_date>
+		<to_date>1998-03-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>67142</salary>
+		<from_date>1998-03-28</from_date>
+		<to_date>1999-03-28</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>70495</salary>
+		<from_date>1999-03-28</from_date>
+		<to_date>2000-03-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>73060</salary>
+		<from_date>2000-03-27</from_date>
+		<to_date>2001-03-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>73756</salary>
+		<from_date>2001-03-27</from_date>
+		<to_date>2002-03-27</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10083</emp_no>
+		<salary>77186</salary>
+		<from_date>2002-03-27</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10084</emp_no>
+		<salary>69811</salary>
+		<from_date>1995-12-15</from_date>
+		<to_date>1996-12-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10084</emp_no>
+		<salary>74293</salary>
+		<from_date>1996-12-14</from_date>
+		<to_date>1997-12-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10084</emp_no>
+		<salary>78493</salary>
+		<from_date>1997-12-14</from_date>
+		<to_date>1998-12-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10084</emp_no>
+		<salary>81977</salary>
+		<from_date>1998-12-14</from_date>
+		<to_date>1999-12-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10084</emp_no>
+		<salary>86412</salary>
+		<from_date>1999-12-14</from_date>
+		<to_date>2000-12-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10084</emp_no>
+		<salary>90039</salary>
+		<from_date>2000-12-13</from_date>
+		<to_date>2001-12-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10084</emp_no>
+		<salary>93621</salary>
+		<from_date>2001-12-13</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>40000</salary>
+		<from_date>1994-04-09</from_date>
+		<to_date>1995-04-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>43030</salary>
+		<from_date>1995-04-09</from_date>
+		<to_date>1996-04-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>46477</salary>
+		<from_date>1996-04-08</from_date>
+		<to_date>1997-04-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>47707</salary>
+		<from_date>1997-04-08</from_date>
+		<to_date>1998-04-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>50245</salary>
+		<from_date>1998-04-08</from_date>
+		<to_date>1999-04-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>52683</salary>
+		<from_date>1999-04-08</from_date>
+		<to_date>2000-04-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>55176</salary>
+		<from_date>2000-04-07</from_date>
+		<to_date>2001-04-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>56905</salary>
+		<from_date>2001-04-07</from_date>
+		<to_date>2002-04-06</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10085</emp_no>
+		<salary>60910</salary>
+		<from_date>2002-04-06</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>81613</salary>
+		<from_date>1992-02-19</from_date>
+		<to_date>1993-02-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>81404</salary>
+		<from_date>1993-02-18</from_date>
+		<to_date>1994-02-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>80991</salary>
+		<from_date>1994-02-18</from_date>
+		<to_date>1995-02-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>80941</salary>
+		<from_date>1995-02-18</from_date>
+		<to_date>1996-02-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>80934</salary>
+		<from_date>1996-02-18</from_date>
+		<to_date>1997-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>84324</salary>
+		<from_date>1997-02-17</from_date>
+		<to_date>1998-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>88049</salary>
+		<from_date>1998-02-17</from_date>
+		<to_date>1999-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>90241</salary>
+		<from_date>1999-02-17</from_date>
+		<to_date>2000-02-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>92125</salary>
+		<from_date>2000-02-17</from_date>
+		<to_date>2001-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>96471</salary>
+		<from_date>2001-02-16</from_date>
+		<to_date>2002-02-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10086</emp_no>
+		<salary>96333</salary>
+		<from_date>2002-02-16</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10087</emp_no>
+		<salary>96750</salary>
+		<from_date>1997-05-08</from_date>
+		<to_date>1998-05-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10087</emp_no>
+		<salary>98200</salary>
+		<from_date>1998-05-08</from_date>
+		<to_date>1999-05-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10087</emp_no>
+		<salary>98460</salary>
+		<from_date>1999-05-08</from_date>
+		<to_date>2000-05-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10087</emp_no>
+		<salary>102651</salary>
+		<from_date>2000-05-07</from_date>
+		<to_date>2001-01-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>65957</salary>
+		<from_date>1988-09-02</from_date>
+		<to_date>1989-09-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>67837</salary>
+		<from_date>1989-09-02</from_date>
+		<to_date>1990-09-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>70774</salary>
+		<from_date>1990-09-02</from_date>
+		<to_date>1991-09-02</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>70709</salary>
+		<from_date>1991-09-02</from_date>
+		<to_date>1992-09-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>73858</salary>
+		<from_date>1992-09-01</from_date>
+		<to_date>1993-09-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>78302</salary>
+		<from_date>1993-09-01</from_date>
+		<to_date>1994-09-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>79993</salary>
+		<from_date>1994-09-01</from_date>
+		<to_date>1995-09-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>79519</salary>
+		<from_date>1995-09-01</from_date>
+		<to_date>1996-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>83755</salary>
+		<from_date>1996-08-31</from_date>
+		<to_date>1997-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>84024</salary>
+		<from_date>1997-08-31</from_date>
+		<to_date>1998-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>87639</salary>
+		<from_date>1998-08-31</from_date>
+		<to_date>1999-08-31</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>91296</salary>
+		<from_date>1999-08-31</from_date>
+		<to_date>2000-08-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>95451</salary>
+		<from_date>2000-08-30</from_date>
+		<to_date>2001-08-30</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10088</emp_no>
+		<salary>98003</salary>
+		<from_date>2001-08-30</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>56469</salary>
+		<from_date>1989-01-10</from_date>
+		<to_date>1990-01-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>56165</salary>
+		<from_date>1990-01-10</from_date>
+		<to_date>1991-01-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>56040</salary>
+		<from_date>1991-01-10</from_date>
+		<to_date>1992-01-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>60332</salary>
+		<from_date>1992-01-10</from_date>
+		<to_date>1993-01-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>63549</salary>
+		<from_date>1993-01-09</from_date>
+		<to_date>1994-01-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>64105</salary>
+		<from_date>1994-01-09</from_date>
+		<to_date>1995-01-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>65543</salary>
+		<from_date>1995-01-09</from_date>
+		<to_date>1996-01-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>69267</salary>
+		<from_date>1996-01-09</from_date>
+		<to_date>1997-01-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>70480</salary>
+		<from_date>1997-01-08</from_date>
+		<to_date>1998-01-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>70147</salary>
+		<from_date>1998-01-08</from_date>
+		<to_date>1999-01-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>71560</salary>
+		<from_date>1999-01-08</from_date>
+		<to_date>2000-01-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>72862</salary>
+		<from_date>2000-01-08</from_date>
+		<to_date>2001-01-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>74138</salary>
+		<from_date>2001-01-07</from_date>
+		<to_date>2002-01-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10089</emp_no>
+		<salary>77955</salary>
+		<from_date>2002-01-07</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>44978</salary>
+		<from_date>1986-03-14</from_date>
+		<to_date>1987-03-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>47905</salary>
+		<from_date>1987-03-14</from_date>
+		<to_date>1988-03-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>48211</salary>
+		<from_date>1988-03-13</from_date>
+		<to_date>1989-03-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>50694</salary>
+		<from_date>1989-03-13</from_date>
+		<to_date>1990-03-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>54084</salary>
+		<from_date>1990-03-13</from_date>
+		<to_date>1991-03-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>54095</salary>
+		<from_date>1991-03-13</from_date>
+		<to_date>1992-03-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>56190</salary>
+		<from_date>1992-03-12</from_date>
+		<to_date>1993-03-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>58604</salary>
+		<from_date>1993-03-12</from_date>
+		<to_date>1994-03-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>61661</salary>
+		<from_date>1994-03-12</from_date>
+		<to_date>1995-03-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>64839</salary>
+		<from_date>1995-03-12</from_date>
+		<to_date>1996-03-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>69311</salary>
+		<from_date>1996-03-11</from_date>
+		<to_date>1997-03-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>71274</salary>
+		<from_date>1997-03-11</from_date>
+		<to_date>1998-03-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>71605</salary>
+		<from_date>1998-03-11</from_date>
+		<to_date>1999-03-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10090</emp_no>
+		<salary>75401</salary>
+		<from_date>1999-03-11</from_date>
+		<to_date>1999-05-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>40000</salary>
+		<from_date>1992-11-18</from_date>
+		<to_date>1993-11-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>41181</salary>
+		<from_date>1993-11-18</from_date>
+		<to_date>1994-11-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>43812</salary>
+		<from_date>1994-11-18</from_date>
+		<to_date>1995-11-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>44046</salary>
+		<from_date>1995-11-18</from_date>
+		<to_date>1996-11-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>45385</salary>
+		<from_date>1996-11-17</from_date>
+		<to_date>1997-11-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>46467</salary>
+		<from_date>1997-11-17</from_date>
+		<to_date>1998-11-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>49155</salary>
+		<from_date>1998-11-17</from_date>
+		<to_date>1999-11-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>53157</salary>
+		<from_date>1999-11-17</from_date>
+		<to_date>2000-11-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>55958</salary>
+		<from_date>2000-11-16</from_date>
+		<to_date>2001-11-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10091</emp_no>
+		<salary>60014</salary>
+		<from_date>2001-11-16</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10092</emp_no>
+		<salary>53977</salary>
+		<from_date>1996-04-22</from_date>
+		<to_date>1997-04-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10092</emp_no>
+		<salary>54672</salary>
+		<from_date>1997-04-22</from_date>
+		<to_date>1998-04-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10092</emp_no>
+		<salary>58042</salary>
+		<from_date>1998-04-22</from_date>
+		<to_date>1999-04-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10092</emp_no>
+		<salary>61969</salary>
+		<from_date>1999-04-22</from_date>
+		<to_date>2000-04-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10092</emp_no>
+		<salary>62607</salary>
+		<from_date>2000-04-21</from_date>
+		<to_date>2001-04-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10092</emp_no>
+		<salary>62323</salary>
+		<from_date>2001-04-21</from_date>
+		<to_date>2002-04-21</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10092</emp_no>
+		<salary>66803</salary>
+		<from_date>2002-04-21</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10093</emp_no>
+		<salary>67856</salary>
+		<from_date>1997-06-08</from_date>
+		<to_date>1998-06-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10093</emp_no>
+		<salary>70269</salary>
+		<from_date>1998-06-08</from_date>
+		<to_date>1999-06-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10093</emp_no>
+		<salary>73951</salary>
+		<from_date>1999-06-08</from_date>
+		<to_date>2000-06-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10093</emp_no>
+		<salary>76944</salary>
+		<from_date>2000-06-07</from_date>
+		<to_date>2001-06-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10093</emp_no>
+		<salary>78796</salary>
+		<from_date>2001-06-07</from_date>
+		<to_date>2002-06-07</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10093</emp_no>
+		<salary>82715</salary>
+		<from_date>2002-06-07</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>58001</salary>
+		<from_date>1987-04-18</from_date>
+		<to_date>1988-04-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>61131</salary>
+		<from_date>1988-04-17</from_date>
+		<to_date>1989-04-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>63147</salary>
+		<from_date>1989-04-17</from_date>
+		<to_date>1990-04-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>66339</salary>
+		<from_date>1990-04-17</from_date>
+		<to_date>1991-04-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>68848</salary>
+		<from_date>1991-04-17</from_date>
+		<to_date>1992-04-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>72932</salary>
+		<from_date>1992-04-16</from_date>
+		<to_date>1993-04-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>73585</salary>
+		<from_date>1993-04-16</from_date>
+		<to_date>1994-04-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>73617</salary>
+		<from_date>1994-04-16</from_date>
+		<to_date>1995-04-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>76830</salary>
+		<from_date>1995-04-16</from_date>
+		<to_date>1996-04-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>80759</salary>
+		<from_date>1996-04-15</from_date>
+		<to_date>1997-04-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10094</emp_no>
+		<salary>85225</salary>
+		<from_date>1997-04-15</from_date>
+		<to_date>1997-11-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>63668</salary>
+		<from_date>1994-03-10</from_date>
+		<to_date>1995-03-10</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>65982</salary>
+		<from_date>1995-03-10</from_date>
+		<to_date>1996-03-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>66404</salary>
+		<from_date>1996-03-09</from_date>
+		<to_date>1997-03-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>67641</salary>
+		<from_date>1997-03-09</from_date>
+		<to_date>1998-03-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>70079</salary>
+		<from_date>1998-03-09</from_date>
+		<to_date>1999-03-09</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>72169</salary>
+		<from_date>1999-03-09</from_date>
+		<to_date>2000-03-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>74387</salary>
+		<from_date>2000-03-08</from_date>
+		<to_date>2001-03-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>76900</salary>
+		<from_date>2001-03-08</from_date>
+		<to_date>2002-03-08</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10095</emp_no>
+		<salary>80955</salary>
+		<from_date>2002-03-08</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10096</emp_no>
+		<salary>61395</salary>
+		<from_date>1999-01-23</from_date>
+		<to_date>2000-01-23</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10096</emp_no>
+		<salary>63811</salary>
+		<from_date>2000-01-23</from_date>
+		<to_date>2001-01-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10096</emp_no>
+		<salary>65962</salary>
+		<from_date>2001-01-22</from_date>
+		<to_date>2002-01-22</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10096</emp_no>
+		<salary>68612</salary>
+		<from_date>2002-01-22</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>44886</salary>
+		<from_date>1990-09-15</from_date>
+		<to_date>1991-09-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>47987</salary>
+		<from_date>1991-09-15</from_date>
+		<to_date>1992-09-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>50406</salary>
+		<from_date>1992-09-14</from_date>
+		<to_date>1993-09-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>51981</salary>
+		<from_date>1993-09-14</from_date>
+		<to_date>1994-09-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>53075</salary>
+		<from_date>1994-09-14</from_date>
+		<to_date>1995-09-14</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>53699</salary>
+		<from_date>1995-09-14</from_date>
+		<to_date>1996-09-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>56903</salary>
+		<from_date>1996-09-13</from_date>
+		<to_date>1997-09-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>59339</salary>
+		<from_date>1997-09-13</from_date>
+		<to_date>1998-09-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>62690</salary>
+		<from_date>1998-09-13</from_date>
+		<to_date>1999-09-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>65841</salary>
+		<from_date>1999-09-13</from_date>
+		<to_date>2000-09-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>67846</salary>
+		<from_date>2000-09-12</from_date>
+		<to_date>2001-09-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10097</emp_no>
+		<salary>70161</salary>
+		<from_date>2001-09-12</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>40000</salary>
+		<from_date>1985-05-13</from_date>
+		<to_date>1986-05-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>41426</salary>
+		<from_date>1986-05-13</from_date>
+		<to_date>1987-05-13</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>45147</salary>
+		<from_date>1987-05-13</from_date>
+		<to_date>1988-05-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>48625</salary>
+		<from_date>1988-05-12</from_date>
+		<to_date>1989-05-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>49228</salary>
+		<from_date>1989-05-12</from_date>
+		<to_date>1990-05-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>51404</salary>
+		<from_date>1990-05-12</from_date>
+		<to_date>1991-05-12</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>53646</salary>
+		<from_date>1991-05-12</from_date>
+		<to_date>1992-05-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10098</emp_no>
+		<salary>56202</salary>
+		<from_date>1992-05-11</from_date>
+		<to_date>1992-12-11</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>68781</salary>
+		<from_date>1988-10-18</from_date>
+		<to_date>1989-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>70711</salary>
+		<from_date>1989-10-18</from_date>
+		<to_date>1990-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>75094</salary>
+		<from_date>1990-10-18</from_date>
+		<to_date>1991-10-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>78490</salary>
+		<from_date>1991-10-18</from_date>
+		<to_date>1992-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>81154</salary>
+		<from_date>1992-10-17</from_date>
+		<to_date>1993-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>81480</salary>
+		<from_date>1993-10-17</from_date>
+		<to_date>1994-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>85032</salary>
+		<from_date>1994-10-17</from_date>
+		<to_date>1995-10-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>84698</salary>
+		<from_date>1995-10-17</from_date>
+		<to_date>1996-10-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>86038</salary>
+		<from_date>1996-10-16</from_date>
+		<to_date>1997-10-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>86212</salary>
+		<from_date>1997-10-16</from_date>
+		<to_date>1998-10-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>89257</salary>
+		<from_date>1998-10-16</from_date>
+		<to_date>1999-10-16</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>93297</salary>
+		<from_date>1999-10-16</from_date>
+		<to_date>2000-10-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>95842</salary>
+		<from_date>2000-10-15</from_date>
+		<to_date>2001-10-15</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10099</emp_no>
+		<salary>98538</salary>
+		<from_date>2001-10-15</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>54398</salary>
+		<from_date>1987-09-21</from_date>
+		<to_date>1988-09-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>55586</salary>
+		<from_date>1988-09-20</from_date>
+		<to_date>1989-09-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>57195</salary>
+		<from_date>1989-09-20</from_date>
+		<to_date>1990-09-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>58209</salary>
+		<from_date>1990-09-20</from_date>
+		<to_date>1991-09-20</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>57770</salary>
+		<from_date>1991-09-20</from_date>
+		<to_date>1992-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>59188</salary>
+		<from_date>1992-09-19</from_date>
+		<to_date>1993-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>60763</salary>
+		<from_date>1993-09-19</from_date>
+		<to_date>1994-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>64797</salary>
+		<from_date>1994-09-19</from_date>
+		<to_date>1995-09-19</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>68037</salary>
+		<from_date>1995-09-19</from_date>
+		<to_date>1996-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>69404</salary>
+		<from_date>1996-09-18</from_date>
+		<to_date>1997-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>70575</salary>
+		<from_date>1997-09-18</from_date>
+		<to_date>1998-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>70464</salary>
+		<from_date>1998-09-18</from_date>
+		<to_date>1999-09-18</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>72343</salary>
+		<from_date>1999-09-18</from_date>
+		<to_date>2000-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>74365</salary>
+		<from_date>2000-09-17</from_date>
+		<to_date>2001-09-17</to_date>
+	</ROW>
+
+	<ROW>
+		<emp_no>10100</emp_no>
+		<salary>74957</salary>
+		<from_date>2001-09-17</from_date>
+		<to_date>9999-01-01</to_date>
+	</ROW>
+</DATA>
